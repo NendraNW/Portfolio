@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Nendra's Portrait</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="icon" href="n.png">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel ="stylesheet" href="stylesheet.css">
+<style>
+  .topnav {
+  background-color:transparent;
+  overflow: hidden;
+}
+
+table {
+  table-layout: fixed ;
+  width: 100%;
+  text-align:center;
+}
+	
+td {
+  width: 100%;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+  
+.even-columns {
+	display:flex;
+	  }
+.even-columns >  * {
+	  display:flex;
+	  }
+	  
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color:transparent;
+  color:#e1341e;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color:transparent;
+  color:#000000;
+}
+</style>
+</head>
+<body>
+ <div class="topnav">
+  <a href="index.html">About</a>
+  <a class="active" href="certificates.html">Certificates</a>
+  <a href="learning.html">Learning Experiences Reflection</a>
+  </div>
+  <div style="text-align:center;">
+   <h1>Certificates</h1></div>
+<table>
+<tr><h1>The Science of Relationships<h1><br>
+<p>I took this course on coursera and it was offered by the University of Toronto. This course provided me with much needed knowledge and practical skills for having proper relationships.
+
+I learned that relationships are formed because there are certain needs that people want to fulfill through relationships. Some relationships are instrumental in the sense that you only maintain a relationship in order to use that person to get something done and maybe most of our relationships are like that. But a few relationships are deeper and these relationships are the ones that we maintain with people that mean a lot. 
+
+I understood from this course that we should be looking to fulfill each other’s needs like comfort, relatability, support and others. This made me realize that if we must communicate with each other and negotiate in order to come to a consensus that will allow our needs to get fulfilled and the relationship becomes one that is mutually beneficial. 
+
+I applied many of the skills that I learned in the course into my own life. The application of the skills have lead to less strenuous relationships and more fruitful ones. It was an amazing course to go through and it helped me to progress in my Social Area of Development.
+</p>
+
+</tr>
+
+</table>
+
+</body>
+</html>
